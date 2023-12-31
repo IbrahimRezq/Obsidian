@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ibrahim_Youssef",
+    pageTitle: "المدرسة الربانية",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

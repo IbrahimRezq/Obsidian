@@ -2,7 +2,7 @@ button#explorer {
   all: unset;
   background-color: transparent;
   border: none;
-  text-align: left;
+  text-align: right;
   cursor: pointer;
   padding: 0;
   color: var(--dark);
@@ -98,7 +98,7 @@ svg {
     color: var(--dark);
     background-color: transparent;
     border: none;
-    text-align: left;
+    text-align: right;
     cursor: pointer;
     padding-left: 0;
     padding-right: 0;

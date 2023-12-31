@@ -9,6 +9,7 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  direction: rtl !important;
 }
 
 body,
@@ -401,7 +402,7 @@ table {
 }
 
 th {
-  text-align: left;
+  text-align: right;
   padding: 0.4rem 1rem;
   border-bottom: 2px solid var(--gray);
 }
